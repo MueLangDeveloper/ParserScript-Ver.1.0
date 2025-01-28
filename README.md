@@ -1,3 +1,5 @@
+**現在、ParserScriptは非推奨です。**
+
 # ParserScript-Ver.1.0
 　ParserScript-Ver.1.0を公開しました。この言語について知りたい人は以下のURLからQiitaにアクセスしてください。上が開発中の時ので、下がVer.1.0が公開されて開発段階のParserScriptに追加された機能のです。
 
